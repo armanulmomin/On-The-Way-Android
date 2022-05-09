@@ -1,0 +1,2 @@
+rootProject.name = "OnThe Way"
+include ':app'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159377053474",
+    "project_id": "onthe-way",
+    "storage_bucket": "onthe-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159377053474:android:532f8a187291255e3d377b",
+        "android_client_info": {
+          "package_name": "com.example.ontheway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159377053474-7nkk9nehpern4tf1hheofb78obu7vu31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgKaA93GGxbLoS31POksMz-GWW_D-uGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159377053474-7nkk9nehpern4tf1hheofb78obu7vu31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
